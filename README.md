@@ -3,7 +3,7 @@
 Sobre Mim!
 
 - 🖥️ Desenvolvedor web
--  Aluna do Instituto ProA💙
+-  Aluno do Instituto ProA💙
 - ✍️ Aprendendo linguagens de Programação.
 
  Informações de Contato:
